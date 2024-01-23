@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.App-header {
+  opacity: .8;
+  font-size: 8em;
+}
+
+.Country {
+  font-size: 4em;
+  opacity: .75;
+  cursor: pointer;
+}
+button {
+  margin: 0;
+  padding: 10px;
+  width: 50px;
+  font-size: 30px
+}
+.medals{
+  color: gold;
+}
